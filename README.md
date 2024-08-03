@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Video](#video)
+- [Gameplay](#gameplay)
 - [License](#license)
 
 ## Introduction
@@ -23,7 +23,8 @@ Flappy Furr is a simple yet addictive game where the player controls a furr, att
 
 ## Gameplay
 
-https://github.com/theskinnyhippo/Flappy-furr/blob/main/gameplay.mp4
+https://github.com/user-attachments/assets/e7b62968-9a08-406d-9e7e-7cc7885de643
+
 
 ## Technologies Used
 - HTML
