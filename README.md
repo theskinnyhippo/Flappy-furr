@@ -22,10 +22,8 @@ Flappy Furr is a simple yet addictive game where the player controls a furr, att
 - Try to pass through as many pipes as possible to increase your score.
 
 ## Gameplay
-<video width="600" controls>
-  <source src="[gameplay](https://raw.githubusercontent.com/theskinnyhippo/Flappy-furr/blob/main/gameplay.mp4)">
-  Your browser does not support the video tag.
-</video>
+
+- https://github.com/theskinnyhippo/Flappy-furr/blob/main/gameplay.mp4
 
 ## Technologies Used
 - HTML
